@@ -135,6 +135,26 @@
         "hungry"
       ],
       "id": "13"
+    },
+    {
+      "name": "idk",
+      "species": "mystery",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry",
+        "loving"
+      ],
+      "id": "14"
+    },
+    {
+      "name": "idk",
+      "species": "mystery",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry",
+        "loving"
+      ],
+      "id": "14"
     }
   ]
 }
